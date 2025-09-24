@@ -1,0 +1,40 @@
+{
+  "name": "eda-aiminds-front",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Interface frontend do agente de IA do desafio extra",
+  "keywords": [
+    "frontend",
+    "react",
+    "ai",
+    "eda",
+    "aiminds"
+  ],
+  "author": "Aldenir Gil <aldenirgil@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aldenirgil/eda-aiminds-front.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aldenirgil/eda-aiminds-front/issues"
+  },
+  "homepage": "https://github.com/aldenirgil/eda-aiminds-front#readme",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "scripts": {
+    "dev": "echo 'Development server not configured yet'",
+    "build": "echo 'Build script not configured yet'",
+    "preview": "echo 'Preview script not configured yet'",
+    "lint": "echo 'Linting not configured yet'",
+    "lint:fix": "echo 'Lint fix not configured yet'",
+    "format": "echo 'Formatting not configured yet'",
+    "test": "echo 'Tests not configured yet'",
+    "test:watch": "echo 'Test watch not configured yet'",
+    "test:coverage": "echo 'Test coverage not configured yet'"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
